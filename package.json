@@ -2,6 +2,7 @@
   "name": "ms-wrapper-lib-experiment",
   "version": "1.0.1",
   "description": "Just experimental lib",
+  "repository": "ifreespam/ms-wrapper-lib-experiment",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
