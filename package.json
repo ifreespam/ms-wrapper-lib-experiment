@@ -1,0 +1,13 @@
+{
+  "name": "ms-wrapper-lib-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ms": "^2.0.0"
+  }
+}
